@@ -170,8 +170,8 @@ const App: React.FC = () => {
   return (
     <AppContainer>
       <Header>
-        <Title>EatWhat</Title>
-        <Subtitle>不知道吃什麼？讓轉盤來決定！</Subtitle>
+        <Title>EatWhat?</Title>
+        <Subtitle>水湳美食轉盤 - 不知道吃什麼？讓轉盤來決定！</Subtitle>
       </Header>
       
       <ModeToggle>
